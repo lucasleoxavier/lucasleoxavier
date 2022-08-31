@@ -13,7 +13,7 @@
 
 ###
 
-<img align="left" height="200" src="https://c.tenor.com/4g17BhQWFQkAAAAd/bug-developer.gif"  />
+<img align="left" height="150" src="https://c.tenor.com/4g17BhQWFQkAAAAd/bug-developer.gif"  />
 
 ###
 
