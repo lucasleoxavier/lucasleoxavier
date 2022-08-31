@@ -13,7 +13,7 @@
 
 ###
 
-<img align="left" height="150" src="https://c.tenor.com/4g17BhQWFQkAAAAd/bug-developer.gif"  />
+<img align="left" height="250" src="https://github.com/lucasleoxavier/lucasleoxavier/blob/8bdd5bd404745385f85f5784d2884956c14a2147/bug-developer.gif"  />
 
 ###
 
