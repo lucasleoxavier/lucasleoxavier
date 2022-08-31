@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🖖 Sobre:
 Olá, me chamo Lucas e sou um desenvolvedor web com foco no framework Angular, estudando no momento também sobre React, Next.js e Godot.
 
 
-## 🌐 Socials:
+## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasleoxavier) 
 
 # 💻 Tech Stack:
@@ -11,6 +11,3 @@ Olá, me chamo Lucas e sou um desenvolvedor web com foco no framework Angular, e
 ![](https://github-readme-stats.vercel.app/api?username=lucasleoxavier&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasleoxavier&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleoxavier&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
