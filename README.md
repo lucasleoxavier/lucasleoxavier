@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas, sou um desenvolvedor web atualmente trabalhando com Angular, e estudando React e Godot.</p>
+<p align="left">Me chamo Lucas, sou um desenvolvedor web atualmente trabalhando com Angular e estudando React e Godot.</p>
 
 ###
 
